@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 
 /**
- * @author scott.hardman
+ * @author d.olaniyanu
  *
  */
 public class ArrayAverages {
